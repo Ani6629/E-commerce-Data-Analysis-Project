@@ -3,6 +3,9 @@
 ## Project Overview
 This project involves designing a data model for an Instagram-like application using PostgreSQL. It includes creating various tables to represent users, posts, comments, likes, and followers, along with SQL statements for creating, inserting, and updating data. The project also demonstrates various analytical queries to extract meaningful insights from the data.
 
+![Data Model](https://github.com/username/repository/blob/main/images/data_model.png)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Model Design](#data-model-design)
